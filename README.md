@@ -1,5 +1,5 @@
 
-# Title to my doc 
+# Title to my Name 
 ruti sasson
 
 ## Sub title
@@ -7,4 +7,4 @@ my project
 
 ### exeple
 ```cpp
-int x=0
+string my_friend='oriya skraga' 
